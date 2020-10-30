@@ -1,0 +1,31 @@
+body{
+    font: 20px "Poppins", Arial, sans-serif;
+}
+
+.navbar{
+    background-color: #33FF33;
+}
+
+.quem-somos{
+    background-color: #FFE34A;
+    color: darkblue;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px; ;
+}
+
+.parceiros{
+    background-color: cadetblue;
+
+}
+
+.servicos{
+    background-color:yellowgreen;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
